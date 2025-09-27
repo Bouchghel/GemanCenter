@@ -26,8 +26,8 @@ const Navbar = () => {
             <div className="text-2xl tracking-wide">ALLMANIA</div>
           </Link>
           <div className="hidden xl:flex gap-4">
-            <Link href="/">Page d'accueil</Link>
-            <Link href="/contact">S'inscrire</Link>
+            <Link href="/">Page d&apos;accueil</Link>
+            <Link href="/contact">S&apos;inscrire</Link>
             <Link href="/contact">Contact</Link>
           </div>
         </div>

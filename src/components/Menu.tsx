@@ -25,10 +25,10 @@ const Menu = () => {
       {open && (
         <div className="absolute bg-black text-white left-0 top-20 w-full h-[calc(100vh-80px)] flex flex-col items-center justify-center gap-8 text-xl z-10">
           <Link href="/" onClick={handleLinkClick}>
-            Page d'accueil
+            Page d&apos;accueil
           </Link>
           <Link href="/inscription" onClick={handleLinkClick}>
-            S'inscrire
+            S&apos;inscrire
           </Link>
           <Link href="/contact" onClick={handleLinkClick}>
             Contact
