@@ -65,7 +65,7 @@ const Contact = () => {
 
         {/* Map */}
         <div className="flex flex-col gap-4 justify-center bg-white p-6 sm:p-8 rounded-lg shadow-md">
-          <h2 className="text-xl font-semibold mb-2">Nous npm trouver</h2>
+          <h2 className="text-xl font-semibold mb-2">Nous trouver</h2>
           <p>Adresse: 95 Bd Mohamed 5 Casablanca</p>
           <div className="w-full h-64 sm:h-80 mt-4 rounded overflow-hidden shadow-inner">
             <iframe
