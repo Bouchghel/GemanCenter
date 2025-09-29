@@ -14,9 +14,9 @@ const Footer = () => {
                 German Center
               </div>
             </Link>
-            <p>123 Rue de l’Allemagne, Casablanca, Maroc</p>
+            <p>95 Bd Mohamed 5 Casablanca</p>
             <span className="font-medium">alalmaniazentrum@gmail.com</span>
-            <span className="font-medium">+212 6 12 34 56 78</span>
+            <span className="font-medium">+212 642-752740</span>
             <div className="flex gap-4 mt-2">
               <Link href="#"><Image src="/facebook.png" alt="Facebook" width={24} height={24} className="hover:opacity-70 transition"/></Link>
               <Link href="#"><Image src="/instagram.png" alt="Instagram" width={24} height={24} className="hover:opacity-70 transition"/></Link>
