@@ -1,4 +1,9 @@
+# *
 User-agent: *
 Allow: /
 
+# Host
+Host: https://alalmaniazentrum.com
+
+# Sitemaps
 Sitemap: https://alalmaniazentrum.com/sitemap.xml
