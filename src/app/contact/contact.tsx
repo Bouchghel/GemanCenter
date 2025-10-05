@@ -69,7 +69,7 @@ const Contact = () => {
           <p>Adresse: 95 Bd Mohamed 5 Casablanca</p>
           <div className="w-full h-64 sm:h-80 mt-4 rounded overflow-hidden shadow-inner">
             <iframe
-              title="Wijhati Center Map"
+              title="alalmaniazentrum Center Map"
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.123456789!2d-7.616123!3d33.595029!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7d30f9523da1d%3A0xb15e2d185ca391ec!2sWijhati%20Center!5e0!3m2!1sfr!2sma!4v1690000000000!5m2!1sfr!2sma"
               width="100%" height="100%" className="border-0" allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade"
             />
